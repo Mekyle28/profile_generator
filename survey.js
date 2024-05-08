@@ -44,10 +44,7 @@ rl.question('What\'s your name? Nicknames are also acceptable :) ', (name) => {
             });
         });
     });
-    // console.log(`${name} enjoys ${activity}, but it wouldn\'t be the 
-    // same without some ${music} music! ${meal} is by far the best time
-    // of the day, but only if there\'s ${food}. The best sport is clearly ${sport} 
-    // so don\'t even bother trying to change my mind. My true gift is ${superPower} :)`)
+
 });
 
 
